@@ -13,7 +13,8 @@ local.properties
 logs/
 *.log
 
-/platforms/*
+/platforms
+/platforms/platforms.json
 /plugins/*.json
 
 # Eclipse Core
