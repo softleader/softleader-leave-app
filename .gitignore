@@ -12,7 +12,9 @@ local.properties
 .recommenders
 logs/
 *.log
-/platforms
+
+/platforms/*
+/plugins/*.json
 
 # Eclipse Core
 .project
